@@ -18,8 +18,8 @@
   <a href="https://github.com/abhinav-mittal33">
     <img src="https://img.shields.io/badge/GitHub-abhinav--mittal33-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/abhinavmittal33">
-    <img src="https://img.shields.io/badge/LinkedIn-abhinavmittal33-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://linkedin.com/in/abhinav-mittal-here">
+    <img src="https://img.shields.io/badge/LinkedIn-abhinav--mittal--here-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </div>
 
