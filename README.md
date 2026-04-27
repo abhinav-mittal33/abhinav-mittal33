@@ -1,113 +1,180 @@
-<h1 align="center">
-  Abhinav Mittal
-</h1>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Abhinav%20Mittal&fontSize=42&fontColor=c9d1d9&fontAlignY=35&desc=Building%20tools%20that%20solve%20real%20problems&descSize=16&descColor=58a6ff&descAlignY=55&animation=fadeIn" />
 
-<p align="center">
-  <em>CS Undergrad · Building tools that solve real problems</em>
-</p>
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=CS+Undergrad+%C2%B7+Full-Stack+Developer;AI+%2B+ML+%C2%B7+On-Device+Inference;Building+Products%2C+Not+Just+Projects" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
+<br/>
+
+<!-- Social Badges -->
+<div align="center">
   <a href="mailto:abhinavmittal33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhinavmittal33-0A0A0A?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-abhinavmittal33-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>&nbsp;
   <a href="https://github.com/abhinav-mittal33">
-    <img src="https://img.shields.io/badge/GitHub-abhinav--mittal33-0A0A0A?style=flat-square&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-abhinav--mittal33-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/abhinavmittal33">
-    <img src="https://img.shields.io/badge/LinkedIn-abhinavmittal33-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-abhinavmittal33-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### About
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinav-mittal33&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
+</div>
 
-B.Tech Computer Science at Parul University, Vadodara.  
-I build end-to-end products — from idea to deployment — with a focus on AI integration and solving domain-specific problems.
+<br/>
 
-Currently exploring: **AI-powered developer tools**, **full-stack SaaS**, and **on-device ML**.
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;About Me
 
----
+```yaml
+name: Abhinav Mittal
+location: Vadodara, India
+education: B.Tech Computer Science @ Parul University (2029)
 
-### Featured Projects
+current_focus:
+  - AI-powered developer tools
+  - Full-stack SaaS products
+  - On-device ML inference
+
+interests:
+  - Solving domain-specific problems with AI
+  - Building products end-to-end
+  - Hackathons & open source
+
+achievements:
+  - "Top 10 — NISM Ideathon 2026 (nationwide, cyber fraud detection)"
+  - "Smart India Hackathon participant"
+  - "National Science Olympiad Gold — IIT Bombay (2018, 2019)"
+  - "Dainik Bhaskar Scholar (2022)"
+```
+
+<br/>
+
+<!-- Tech Stack -->
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,cpp,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flask,nodejs,tailwind,prisma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,vercel&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,solidity,pytorch&theme=dark" />
+</div>
+
+<br/>
+
+<!-- Featured Projects -->
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-mittal33/manage-sathi">Manage Sathi</a></h3>
-      <p>Project management PWA for architecture firms in India. Tracks drawings, site stages, invoices — all integrated with WhatsApp.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drizzle-0A0A0A?style=flat-square&logo=drizzle&logoColor=white" />
-        <img src="https://img.shields.io/badge/WhatsApp_API-0A0A0A?style=flat-square&logo=whatsapp&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-mittal33/linkpeek">LinkPeek</a></h3>
-      <p>MCP server + Chrome extension that lets Claude understand any video link. On-device Whisper + BLIP — no API keys needed.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chrome_MV3-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-0A0A0A?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-0A0A0A?style=flat-square&logo=anthropic&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-mittal33/fixorclean">FixOrClean</a></h3>
-      <p>AI-powered data cleaning for messy Google Form exports. Upload a CSV, get a polished dataset + visual report in 60 seconds.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-0A0A0A?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-mittal33/pm-ai-recommender">PM Internship Recommender</a></h3>
-      <p>ML-powered internship matching for India's PM Internship Scheme. Uses sentence-transformers for semantic resume-to-role matching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-0A0A0A?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Manage Sathi](https://github.com/abhinav-mittal33/manage-sathi)
+> Project management PWA for Indian architecture firms
+
+Track drawings, site stages, invoices — all via WhatsApp integration. Offline-first with IndexedDB sync.
+
+`Next.js` `PostgreSQL` `Drizzle` `WhatsApp API` `PWA`
+
+</td>
+<td width="50%" valign="top">
+
+### [LinkPeek](https://github.com/abhinav-mittal33/linkpeek)
+> MCP server that lets Claude understand any video
+
+Chrome extension + Python backend. On-device Whisper transcription + BLIP vision. Zero API keys needed.
+
+`Python` `Chrome MV3` `WebSocket` `MCP` `On-Device AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FixOrClean](https://github.com/abhinav-mittal33/fixorclean)
+> AI-powered data cleaning for Google Forms
+
+Upload messy CSV → get polished dataset + visual report in 60 seconds. Built for professors drowning in bad data.
+
+`TypeScript` `Next.js` `Gemini AI` `Prisma` `Recharts`
+
+</td>
+<td width="50%" valign="top">
+
+### [PM Internship Recommender](https://github.com/abhinav-mittal33/pm-ai-recommender)
+> Smart internship matching with NLP
+
+Semantic resume-to-role matching using sentence-transformers. Goes beyond keyword filtering to understand skills.
+
+`Python` `Flask` `PyTorch` `Sentence-Transformers`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2" align="center">
+
+### [Vercroww](https://github.com/abhinav-mittal33/vercroww)
+> Policy-gated autonomous escrow on Ethereum
+
+AI parses natural language intent → validates against policies → deploys self-executing escrow smart contract. Built at Blueprint 6.0.
+
+`Solidity` `Next.js` `Gemini AI` `Ethereum` `Hardhat`
+
+</td>
+</tr>
 </table>
 
----
+</div>
 
-### Tech
+<br/>
 
-```
-Languages        Python · TypeScript · C · C++
-Frontend         Next.js · React · HTML/CSS · Tailwind
-Backend          Flask · Node.js · Drizzle ORM · Prisma
-AI/ML            Sentence-Transformers · Gemini · Whisper · BLIP
-Databases        PostgreSQL · SQLite · IndexedDB
-Infrastructure   Vercel · Cloudflare R2 · Oracle Cloud · n8n
-Tools            Git · GitHub · VS Code · Docker
-```
+<!-- GitHub Stats -->
+## 📊 &nbsp;GitHub Stats
 
----
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinav-mittal33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&ring_color=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-mittal33&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</div>
 
-### Highlights
+<br/>
 
-- 🏆 **Top 10 — NISM Ideathon 2026** — Nationwide hackathon on detecting cyber fraud in financial markets
-- 🥇 **Smart India Hackathon** participant — Team-based problem solving under real-world constraints
-- 🏅 **National Science Olympiad Gold Medalist** — IIT Bombay (2018, 2019)
-- 📜 **Certifications** — Data Analytics (Accenture) · Business Analysis · AI Tools Masterclass (10x)
+<div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-mittal33&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-mittal33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-mittal33&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9" width="49%" />
-</p>
+<!-- Certifications -->
+## 📜 &nbsp;Certifications
 
-<p align="center">
+<div align="center">
+
+| Certification | Issuer | Year |
+|:---|:---|:---:|
+| Data Analytics & Visualization Job Simulation | Accenture | 2024 |
+| Business Analysis & Process Management | — | 2024 |
+| AI Tools Masterclass | 10x | 2025 |
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
   <sub>Vadodara, India · Open to internships and collaborations</sub>
-</p>
+</div>
