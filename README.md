@@ -153,6 +153,15 @@ AI parses natural language intent → validates against policies → deploys sel
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-mittal33&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 <br/>
 
 <!-- Certifications -->
