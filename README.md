@@ -32,31 +32,36 @@
 
 <br/>
 
-<!-- About Section -->
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-mittal33&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" />
+</div>
+
+<br/>
+
+<!-- About Section with GIF -->
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;About Me
 
 ```yaml
 name: Abhinav Mittal
 location: Vadodara, India
-education: B.Tech Computer Science @ Parul University (2029)
+education: B.Tech CS @ Parul University
 
 current_focus:
   - AI-powered developer tools
   - Full-stack SaaS products
   - On-device ML inference
 
-interests:
-  - Solving domain-specific problems with AI
-  - Building products end-to-end
-  - Hackathons & open source
-
 achievements:
-  - "Top 10 — NISM Ideathon 2026 (nationwide, cyber fraud detection)"
-  - "Smart India Hackathon participant"
-  - "National Science Olympiad Gold — IIT Bombay (2018, 2019)"
-  - "Dainik Bhaskar Scholar (2022)"
+  - Top 10 — NISM Ideathon 2026
+  - Smart India Hackathon participant
+  - NSO Gold — IIT Bombay (2018, 2019)
+  - Dainik Bhaskar Scholar (2022)
 ```
 
+<br clear="both"/>
 <br/>
 
 <!-- Tech Stack -->
@@ -76,64 +81,21 @@ achievements:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Manage Sathi](https://github.com/abhinav-mittal33/manage-sathi)
-> Project management PWA for Indian architecture firms
-
-Track drawings, site stages, invoices — all via WhatsApp integration. Offline-first with IndexedDB sync.
-
-`Next.js` `PostgreSQL` `Drizzle` `WhatsApp API` `PWA`
-
-</td>
-<td width="50%" valign="top">
-
-### [LinkPeek](https://github.com/abhinav-mittal33/linkpeek)
-> MCP server that lets Claude understand any video
-
-Chrome extension + Python backend. On-device Whisper transcription + BLIP vision. Zero API keys needed.
-
-`Python` `Chrome MV3` `WebSocket` `MCP` `On-Device AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [FixOrClean](https://github.com/abhinav-mittal33/fixorclean)
-> AI-powered data cleaning for Google Forms
-
-Upload messy CSV → get polished dataset + visual report in 60 seconds. Built for professors drowning in bad data.
-
-`TypeScript` `Next.js` `Gemini AI` `Prisma` `Recharts`
-
-</td>
-<td width="50%" valign="top">
-
-### [PM Internship Recommender](https://github.com/abhinav-mittal33/pm-ai-recommender)
-> Smart internship matching with NLP
-
-Semantic resume-to-role matching using sentence-transformers. Goes beyond keyword filtering to understand skills.
-
-`Python` `Flask` `PyTorch` `Sentence-Transformers`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2" align="center">
-
-### [Vercroww](https://github.com/abhinav-mittal33/vercroww)
-> Policy-gated autonomous escrow on Ethereum
-
-AI parses natural language intent → validates against policies → deploys self-executing escrow smart contract. Built at Blueprint 6.0.
-
-`Solidity` `Next.js` `Gemini AI` `Ethereum` `Hardhat`
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/abhinav-mittal33/manage-sathi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=manage-sathi&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/abhinav-mittal33/linkpeek">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=linkpeek&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/abhinav-mittal33/fixorclean">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=fixorclean&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/abhinav-mittal33/pm-ai-recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=pm-ai-recommender&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/abhinav-mittal33/vercroww">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=vercroww&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
 
 </div>
 
@@ -150,39 +112,38 @@ AI parses natural language intent → validates against policies → deploys sel
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-mittal33&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-mittal33&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=8" />
 </div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-mittal33&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
+
+<br/>
 
 <!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake-dark.svg" width="100%" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/abhinav-mittal33/abhinav-mittal33/output/dist/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 <br/>
 
-<!-- Certifications -->
-## 📜 &nbsp;Certifications
-
+<!-- Random Dev Quote -->
 <div align="center">
-
-| Certification | Issuer | Year |
-|:---|:---|:---:|
-| Data Analytics & Visualization Job Simulation | Accenture | 2024 |
-| Business Analysis & Process Management | — | 2024 |
-| AI Tools Masterclass | 10x | 2025 |
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" width="70%" />
 </div>
 
 <br/>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
 
 <div align="center">
   <sub>Vadodara, India · Open to internships and collaborations</sub>
