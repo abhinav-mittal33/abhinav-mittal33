@@ -44,10 +44,21 @@ focus:
   - Full-stack SaaS (Next.js · Postgres · Drizzle)
   - On-device ML inference (Whisper · BLIP)
 
-shipped:
-  manage_sathi: "WhatsApp-first SaaS for Indian architecture firms"
-  linkpeek:     "MCP server — video understanding, 0 API cost, 100% local"
-  fixorclean:   "Google Forms data cleaner powered by Gemini AI"
+built:
+  manage_sathi:
+    what: "Project management SaaS for Indian architecture firms"
+    how:  "Next.js PWA · Neon Postgres · IndexedDB offline sync · WhatsApp via n8n"
+    hard_part: "31-node weighted stage hierarchy, firm_id multi-tenant Postgres"
+
+  linkpeek:
+    what: "MCP server — Claude understands any video link"
+    how:  "Chrome MV3 offscreen doc · local Whisper tiny · local BLIP · WebSocket bridge"
+    hard_part: "0 API keys, < 2s YouTube captions, all inference stays on-device"
+
+  fixorclean:
+    what: "Google Forms data cleaner — raw CSV to clean report in 60 seconds"
+    how:  "Next.js · Gemini schema inference · per-row AI cleaning · audit trail"
+    hard_part: "Quality score 0-100 with per-column breakdown and PDF export"
 
 awards:
   - "Top 10 — NISM Ideathon 2026 (Nationwide)"
@@ -117,6 +128,16 @@ workflow:
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-mittal33&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-mittal33&theme=github_dark" width="95%" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-mittal33&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav-mittal33&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinav-mittal33&theme=github_dark&utcOffset=5.5" width="32%" />
 </div>
 
 ---
