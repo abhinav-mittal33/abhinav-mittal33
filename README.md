@@ -20,7 +20,15 @@
 ---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav-mittal33&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" />
+
+![](https://img.shields.io/badge/Products_Shipped-5-58a6ff?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/AI_Integrated-4%2F5_Projects-8957e5?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/Hackathons_%26_Competitions-Top_10%2B-39d353?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/Status-Open_to_Internships-f78166?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
@@ -47,7 +55,9 @@ awards:
   - "NSO Gold Medalist — IIT Bombay (2018, 2019)"
   - "Dainik Bhaskar Scholar Award (2022)"
 
-workflow: AI-native — Claude Code · Gemini · Cursor · GitHub Copilot
+workflow:
+  ai_tools:   [Claude Code, Gemini, Cursor, GitHub Copilot]
+  automation: [n8n, WhatsApp via Evolution API, Cloudflare R2]
 ```
 
 ---
