@@ -46,6 +46,8 @@ awards:
   - "Smart India Hackathon Participant"
   - "NSO Gold Medalist — IIT Bombay (2018, 2019)"
   - "Dainik Bhaskar Scholar Award (2022)"
+
+workflow: AI-native — Claude Code · Gemini · Cursor · GitHub Copilot
 ```
 
 ---
@@ -64,9 +66,9 @@ awards:
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vercel,cloudflare&theme=dark&perline=6" />
 
-**Specialized**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=solidity,figma,vscode&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman&theme=dark&perline=3" />
 
 </div>
 
