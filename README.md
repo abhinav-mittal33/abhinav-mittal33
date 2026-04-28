@@ -11,9 +11,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abhinav-mittal-here)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-mittal33)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhinav-mittal33&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS)
+`abhinavmittal33@gmail.com` · [linkedin.com/in/abhinav-mittal-here](https://linkedin.com/in/abhinav-mittal-here) · [github.com/abhinav-mittal33](https://github.com/abhinav-mittal33)
 
 </div>
 
@@ -51,7 +49,7 @@ built:
     hard_part: "31-node weighted stage hierarchy, firm_id multi-tenant Postgres"
 
   linkpeek:
-    what: "MCP server — Claude understands any video link"
+    what: "MCP server — Claude understands any video link (active development)"
     how:  "Chrome MV3 offscreen doc · local Whisper tiny · local BLIP · WebSocket bridge"
     hard_part: "0 API keys, < 2s YouTube captions, all inference stays on-device"
 
@@ -73,25 +71,15 @@ workflow:
 
 ---
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark&perline=5" />
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,flask,nodejs,tailwind,prisma&theme=dark&perline=6" />
-
-**Databases & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vercel,cloudflare&theme=dark&perline=6" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman&theme=dark&perline=3" />
-
-</div>
+| Category | Technologies |
+|:---------|:------------|
+| **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
+| **Frontend** | Next.js · React · Tailwind CSS · Prisma |
+| **Backend** | Node.js · Flask · Drizzle ORM |
+| **Databases** | PostgreSQL (Neon) · SQLite |
+| **Infrastructure** | Vercel · Cloudflare R2 · n8n · Git · GitHub |
+| **AI / ML** | Gemini · Whisper (local) · BLIP (local) · MCP SDK |
+| **Workflow** | Claude Code · Cursor · GitHub Copilot · Figma · Postman |
 
 ---
 
@@ -111,9 +99,6 @@ workflow:
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=pm-ai-recommender&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
-<a href="https://github.com/abhinav-mittal33/vercroww">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=vercroww&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-</a>
 
 </div>
 
@@ -124,20 +109,7 @@ workflow:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinav-mittal33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-mittal33&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
-<br/><br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-mittal33&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav-mittal33&theme=github_dark" width="95%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinav-mittal33&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav-mittal33&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinav-mittal33&theme=github_dark&utcOffset=5.5" width="32%" />
 </div>
 
 ---
