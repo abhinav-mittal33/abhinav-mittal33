@@ -19,9 +19,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Products_Shipped-5-58a6ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Projects_Built-5-58a6ff?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-![](https://img.shields.io/badge/AI_Integrated-4%2F5_Projects-8957e5?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/AI_Integrated-5%2F5_Projects-8957e5?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![](https://img.shields.io/badge/Hackathons_%26_Competitions-Top_10%2B-39d353?style=for-the-badge&labelColor=0d1117)
 &nbsp;
@@ -58,6 +58,11 @@ built:
     how:  "Next.js · Gemini schema inference · per-row AI cleaning · audit trail"
     hard_part: "Quality score 0-100 with per-column breakdown and PDF export"
 
+  bling:
+    what: "Post-transaction fraud detection engine — Union Bank of India Hackathon (active)"
+    how:  "FastAPI · XGBoost (87 features) · SHAP · Neo4j · Redis · PostgreSQL · Isolation Forest"
+    hard_part: "3-tier pipeline: velocity heuristics → 5 graph gates → ML ensemble, 23/23 tests passing"
+
 awards:
   - "Top 10 — NISM Ideathon 2026 (Nationwide)"
   - "Smart India Hackathon Participant"
@@ -75,10 +80,10 @@ workflow:
 |:---------|:------------|
 | **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
 | **Frontend** | Next.js · React · Tailwind CSS · Prisma |
-| **Backend** | Node.js · Flask · Drizzle ORM |
-| **Databases** | PostgreSQL (Neon) · SQLite |
-| **Infrastructure** | Vercel · Cloudflare R2 · n8n · Git · GitHub |
-| **AI / ML** | Gemini · Whisper (local) · BLIP (local) · MCP SDK |
+| **Backend** | Node.js · FastAPI · Flask · Drizzle ORM |
+| **Databases** | PostgreSQL (Neon) · SQLite · Redis · Neo4j |
+| **Infrastructure** | Vercel · Cloudflare R2 · n8n · Docker · Git · GitHub |
+| **AI / ML** | XGBoost · SHAP · Isolation Forest · Gemini · Whisper (local) · BLIP (local) · MCP SDK |
 | **Workflow** | Claude Code · Cursor · GitHub Copilot · Figma · Postman |
 
 ---
