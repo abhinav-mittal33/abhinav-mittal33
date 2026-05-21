@@ -85,30 +85,7 @@ workflow:
 
 <div align="center">
 
-<a href="https://github.com/abhinav-mittal33/manage-sathi">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=manage-sathi&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-</a>&nbsp;
-<a href="https://github.com/abhinav-mittal33/linkpeek">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=linkpeek&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/abhinav-mittal33/fixorclean">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=fixorclean&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-</a>&nbsp;
-<a href="https://github.com/abhinav-mittal33/pm-ai-recommender">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-mittal33&repo=pm-ai-recommender&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-</a>
-
-
-</div>
-
----
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinav-mittal33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-mittal33&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
+<img width="70%" src="https://streak-stats.demolab.com?user=abhinav-mittal33&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
 
