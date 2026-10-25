@@ -11,7 +11,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abhinav-mittal-here)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-mittal33)
 
-`abhinavmittal33@gmail.com` · [linkedin.com/in/abhinav-mittal-here](https://linkedin.com/in/abhinav-mittal-here) · [github.com/abhinav-mittal33](https://github.com/abhinav-mittal33)
+`abhinavmittal33@gmail.com` · [linkedin.com/in/abhinav-mittal-here](https://linkedin.com/in/abhinav-mittal-here) · [github.com/abhinav-mittal33](https://github.com/abhinav-mittal33) [Portfolio](https://abhinav-mittal.vercel.app/intro/)
 
 </div>
 
